@@ -73,8 +73,6 @@
                     </execution>
                 </executions>
             </plugin>
-
-            　　　　　　　<!-- docker 插件配置-->
             <plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>dockerfile-maven-plugin</artifactId>
